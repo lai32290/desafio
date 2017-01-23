@@ -4,10 +4,9 @@
 
 ## Antonio 
 ### - [Toggle Color](https://play.google.com/store/apps/details?id=com.EH.ToggleColor&hl=pt_BR)
-![Goggle Color](images/toggle-color.png)
-<img src="images/toggle-color.png" height="100">
+<img src="images/toggle-color.png" height="200">
 
 
 ## Lai 
 ### - [Super Ball](https://play.google.com/store/apps/details?id=com.lxuancheng.superball&hl=pt_BR)
-![Super Ball](images/super-ball.png)
+<img src="images/toggle-color.png" width="200">
