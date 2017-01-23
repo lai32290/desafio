@@ -4,7 +4,8 @@
 
 ## Antonio 
 ### - [Toggle Color](https://play.google.com/store/apps/details?id=com.EH.ToggleColor&hl=pt_BR)
-![Goggle Color](images/toggle-color.png) { height=100px }
+![Goggle Color](images/toggle-color.png)
+<img src="images/toggle-color.png" height="100">
 
 
 ## Lai 
